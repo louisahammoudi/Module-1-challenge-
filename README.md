@@ -1,4 +1,4 @@
-## Module-1-challenge-s
+## Module-1-challenges
 
 ## Explain the purpose of this analysis:
 in this analysis we are helping louise to know how different campaigns proceed and progress depending on their launch dates and their funding goals and how the launhing date and funding goals will affect the succes of the compaings 
